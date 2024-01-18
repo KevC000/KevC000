@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Kevin C. 
 
 ## About
-I'm a Software Engineer with a robust skill set in front-end development, complemented by a solid understanding of back-end processes, some experience in native Android, and a keen interest in cross-platform technologies.
+As a self-driven and versatile Software Engineer, I bring a comprehensive skill set with a strong emphasis on front-end development, complemented by a proficient understanding of back-end processes and experience in native Android. With a fervent interest in cross-platform technologies, I am primarily seeking front-end or full-stack roles but remain open to exploring opportunities in back-end or mobile development.
 
 ## Skills
 **Programming Languages:** JavaScript, TypeScript, Ruby, Python, Kotlin (comfortable) | Java, Dart (familiar)
