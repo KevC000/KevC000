@@ -14,7 +14,7 @@ I'm a Software Engineer with a robust skill set in front-end development, comple
 <br/>
 **Other:** Git, VSCode
 <br/>
-**Interests:** Cross-platform technologies, Flutter, React native, Ionic
+**Interests:** Cross-platform technologies, Flutter, React Native, Ionic
 
 
 ## Story
