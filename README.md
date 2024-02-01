@@ -8,9 +8,9 @@ knowledge in Android development and collaborative skills from over 3 years in t
 ## Skills
 **Programming Languages:** JavaScript, TypeScript, Ruby, Python, Kotlin (comfortable) | Java, Dart (familiar)
 <br /> 
-**Front End:** React, Next, TailwindCSS, Bootstrap, Mantine, HTML, CSS, XML
+**Front End:** React, Next, Tailwind CSS, Bootstrap, Mantine, HTML, CSS, XML
  <br/>
-**Back End:** Ruby on Rails, NodeJS (comfortable) | Firebase, PostgreSQL (familiar) 
+**Back End:** Ruby on Rails, Firebase, PostgreSQL (familiar) 
 <br/>
 **Mobile:** Android
 <br/>
