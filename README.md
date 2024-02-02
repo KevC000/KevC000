@@ -10,7 +10,7 @@ knowledge in Android development and collaborative skills from over 3 years in t
 <br /> 
 **Front End:** React, Next, Tailwind CSS, Bootstrap, Mantine, HTML, CSS, XML
  <br/>
-**Back End:** Ruby on Rails, Firebase, PostgreSQL (familiar) 
+**Back End:** Ruby on Rails, Firebase, PostgreSQL
 <br/>
 **Mobile:** Android
 <br/>
