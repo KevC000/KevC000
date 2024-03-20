@@ -4,15 +4,15 @@
 Software Engineer with self-taught and hands-on project experience in Android Development and boot camp/project experience in web development. 
 
 ## Skills
-**Programming Languages:** JavaScript, TypeScript, Ruby, Python, Kotlin
+**Programming Languages:** Kotlin, JavaScript, TypeScript, Ruby, Python, HTML/CSS, XML
 <br /> 
 **Front End:** React, Next, Tailwind CSS, Bootstrap, Mantine, HTML, CSS, XML
  <br/>
 **Back End:** Ruby on Rails, Firebase, PostgreSQL
 <br/>
-**Mobile:** Android
+**Android:** Jetpack Compose, Retrofit, Gson, Dagger-Hilt, Datastore, Room DB, Coil
 <br/>
-**Other:** Git, VSCode
+**Other:** Git, Firebase, VSCode
 <br/>
 
 
