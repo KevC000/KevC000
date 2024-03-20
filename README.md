@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Kevin C. 
 
 ## About
-Full Stack Software Engineer with 2+ years of boot camp and self-taught experience in full stack web and Android development, with an additional 3+ years collaborative experience in the service industry.
+Software Engineer with self-taught and hands-on project experience in Android Development and boot camp/project experience in web development. 
 
 ## Skills
 **Programming Languages:** JavaScript, TypeScript, Ruby, Python, Kotlin
