@@ -10,7 +10,7 @@ Software Engineer with self-taught and hands-on project experience in Android De
  <br/>
 **Back End:** Ruby on Rails, Firebase, PostgreSQL
 <br/>
-**Android:** Jetpack Compose, Retrofit, Gson, Dagger-Hilt, Datastore, Room DB, Coil
+**Android:** Jetpack Compose, Retrofit, Gson, Dagger-Hilt, Datastore, Room DB, Coil, Flow, ViewModels
 <br/>
 **Other:** Git, Firebase, VSCode
 <br/>
