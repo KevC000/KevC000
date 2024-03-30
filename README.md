@@ -4,13 +4,18 @@
 Full Stack Web and Android Software Engineer with a keen passion for integrating coding expertise with diverse hobbies. 
 
 ## Skills
-Languages: Kotlin, Java, JavaScript, TypeScript, Ruby, Python
+### Android
+Languages: Kotlin, Java, XML,
 <br/>
-Android: Jetpack Compose, XMK, Retrofit, Gson, Dagger-Hilt, Room DB, Coil, Datastore, Coroutines, State, Flow, MVVM
-<br /> 
+Technical: Jetpack Compose, Retrofit, Gson, Dagger-Hilt, Room DB, Coil, Datastore, Coroutines, State, Flow, MVVM
+
+### Web
+Languages: JavaScript, TypeScript, Ruby, Python
+<br/>
 Front End: React, Next, Tailwind CSS, Bootstrap, Mantine, HTML/CSS
  <br/>
 Back End: Ruby on Rails, Firebase, PostgreSQL
+<br/>
 <br/>
 Other: Git, Firebase, Data Structures and Algorithms
 <br/>
