@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Kevin C. 
 
 ## About
-Full Stack Web and Android Software Engineer with a keen passion for integrating coding expertise with diverse hobbies. 
+Android Software Engineer with a keen passion for integrating coding expertise with diverse hobbies with additional experience in full-stack web development. 
 
 ## Skills
 ### Android
@@ -21,5 +21,4 @@ Other: Git, Firebase, Data Structures and Algorithms
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevC000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevC000)](https://github.com/anuraghazra/github-readme-stats)
 
