@@ -1,18 +1,18 @@
 ### Hi there 👋, I am Kevin C. 
 
 ## About
-Software Engineer with self-taught and hands-on project experience in Android Development and boot camp/project experience in web development. 
+Full Stack Web and Android Software Engineer with a keen passion for integrating coding expertise with diverse hobbies. 
 
 ## Skills
-**Programming Languages:** Kotlin, JavaScript, TypeScript, Ruby, Python, HTML/CSS, XML
+Languages: Kotlin, Java, JavaScript, TypeScript, Ruby, Python, HTML/CSS, XML
+<br/>
+Android: Jetpack Compose, Retrofit, Gson, Dagger-Hilt, Room DB, Coil, Datastore, Coroutines, State, Flow, MVVM
 <br /> 
-**Front End:** React, Next, Tailwind CSS, Bootstrap, Mantine, HTML, CSS, XML
+Front End: React, Next, Tailwind CSS, Bootstrap, Mantine, HTML, CSS, XML
  <br/>
-**Back End:** Ruby on Rails, Firebase, PostgreSQL
+Back End: Ruby on Rails, Firebase, PostgreSQL
 <br/>
-**Android:** Jetpack Compose, Retrofit, Gson, Dagger-Hilt, Datastore, Room DB, Coil, Flow, ViewModels
-<br/>
-**Other:** Git, Firebase, VSCode
+Other: Git, Firebase, Data Structures and Algorithms
 <br/>
 
 
